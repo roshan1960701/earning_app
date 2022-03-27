@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86947029481",
+    "project_id": "earningapp-a385f",
+    "storage_bucket": "earningapp-a385f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86947029481:android:de79da53901501654eab78",
+        "android_client_info": {
+          "package_name": "com.example.earning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86947029481-fcefnb07k2fn3u394q24io9j48s0d7ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earning_app",
+            "certificate_hash": "ab9b1f1a42852a2145af5ce95cfcebf19a2d5d24"
+          }
+        },
+        {
+          "client_id": "86947029481-r7454l29o5qgfrihg982jprvko0s27ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSFQTmk3p7lfPEMtoaYEQen8NGh07cMNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86947029481-r7454l29o5qgfrihg982jprvko0s27ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
